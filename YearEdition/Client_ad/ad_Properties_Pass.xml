@@ -1,0 +1,14 @@
+<Properties >
+  <String id="AD_NAMES_PASS">bj3_a,weibo</String>
+
+  <String id="AD_IMAGE_bj3_a">bj3_a.jpg</String>
+  <String id="AD_IMAGE_LINK_URL_bj3_a">http://labs-apac.popcap.com/bj2/kontagent_pvz/kn_pvz_event.php?event=pass_bj3_a&url=http://rc.qzone.qq.com/myhome/17178</String>
+  <Integer id="AD_IMAGE_SIZE_bj3_a">72571</Integer>
+
+
+  <String id="AD_IMAGE_weibo">weibo.jpg</String>
+  <String id="AD_IMAGE_LINK_URL_weibo">http://labs-apac.popcap.com/bj2/kontagent_pvz/kn_pvz_event.php?event=pass_weibo&url=http://weibo.com/pvzgame</String>
+  <Integer id="AD_IMAGE_SIZE_weibo">64905</Integer>
+
+
+</Properties>
