@@ -1,0 +1,26 @@
+Unknown exception: (code 0xe06d7363) at address 74F3812F in thread 7A8
+Module: KERNELBASE.dll
+Logical Address: 0001:0000712F
+
+0012FA04 74F3812F RaiseException+54 [(Unknown File Name)(0)+0x00000000]
+Params: E06D7363 00000001 00000003 0012FA30
+
+
+EAX:0012F9B4 EBX:1439FB78 ECX:00000003 EDX:00000000 ESI:00751F74 EDI:A9BC70C0
+EIP:74F3812F ESP:0012F9B4  EBP:0012FA04
+CS:001B SS:0023 DS:0023 ES:0023 FS:003B GS:0000
+Flags:00000216
+
+Windows Ver: NT 5.1 Service Pack 3 Build 2600
+DDraw Ver: 
+DSound Ver: 
+
+Product: PlantsVsZombies
+Version: 1.2.0.1073
+Time Loaded: 00:00:45
+Fullscreen: No
+Primary ThreadId: 7A8
+Times Played: 0
+Build Num: 0
+Build Date: 
+

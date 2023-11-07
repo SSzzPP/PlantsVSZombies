@@ -1,0 +1,13 @@
+<Properties >
+  <String id="AD_NAMES_LOADING">spirit,zumablitz</String>
+
+  <String id="AD_IMAGE_spirit">spirit.jpg</String>
+  <String id="AD_IMAGE_LINK_URL_spirit">http://labs-apac.popcap.com/bj2/kontagent_pvz/kn_pvz_event.php?event=loading_spirit&url=http://rc.qzone.qq.com/myhome/17178</String>
+  <Integer id="AD_IMAGE_SIZE_spirit">35909</Integer>
+
+
+  <String id="AD_IMAGE_zumablitz">zumablitz.jpg</String>
+  <String id="AD_IMAGE_LINK_URL_zumablitz">http://labs-apac.popcap.com/bj2/kontagent_pvz/kn_pvz_event.php?event=loading_zumablitz&url=http://rc.qzone.qq.com/myhome/17178</String>
+  <Integer id="AD_IMAGE_SIZE_zumablitz">69597</Integer>
+
+</Properties>
