@@ -1,0 +1,8 @@
+<Properties >
+  <String id="AD_NAMES_LOADING">banner1</String>
+
+  <String id="AD_IMAGE_banner1">banner1.jpg</String>
+  <String id="AD_IMAGE_LINK_URL_banner1"></String>
+  <Integer id="AD_IMAGE_SIZE_banner1">631</Integer>
+
+</Properties>
